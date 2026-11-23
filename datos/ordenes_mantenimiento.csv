@@ -1,0 +1,6 @@
+orden_id,equipo,tarea,fecha_programada,estado_original
+OT-001,Esmaltadora,Revisar boquillas,18/11/2026,Pendiente
+OT-002,Esmaltadora,Limpiar filtros,20/11/2026,Pendiente
+OT-003,Horno,Revisar sensores,25/11/2026,Pendiente
+OT-004,Cinta transportadora,Ajustar tensión,19/11/2026,Completada
+OT-005,Horno,Inspección general,31/11/2026,Pendiente
